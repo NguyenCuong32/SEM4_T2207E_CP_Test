@@ -17,14 +17,14 @@ Link : https://app.diagrams.net/#G1zv30pZ0K4se7htmktrEAu-LtPxVSdHN5#%7B%22pageId
 + Nếu bạn có một mô-đun mới để phát triển, bạn nên chuẩn bị những bước nào để phát triển từ
 bắt đầu mô-đun đến khi phát hành mô-đun :
 
-1 : Lập kế hoạch 
-2 : Tạo nhánh Feature
-3 : Phát triển 
-4 : Kiểm tra
-5 : Hợp nhất vs develop
-6 : Chuẩn bị phát hành
-7 : Phát hành
-8 : Bảo trì
+- Lập kế hoạch 
+- Tạo nhánh Feature
+- Phát triển 
+- Kiểm tra
+- Hợp nhất vs develop
+- Chuẩn bị phát hành
+- Phát hành
+- Bảo trì
 
 3. Testing
 
