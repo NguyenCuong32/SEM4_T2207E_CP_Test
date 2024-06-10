@@ -6,7 +6,7 @@ Link : https://app.diagrams.net/#G1zv30pZ0K4se7htmktrEAu-LtPxVSdHN5#%7B%22pageId
 
 2. Project process
 
-+ Trong dự án phát triển phần mềm, Quản lý kỹ thuật nên sử dụng những nhánh GIT và công dụng của nhánh đó là : 
+a. Trong dự án phát triển phần mềm, Quản lý kỹ thuật nên sử dụng những nhánh GIT và công dụng của nhánh đó là : 
 
 - Main : Lưu trữ mã nguồn ổn định nhất, là phiên bản chính thức của sản phẩm.
 - Develop : Nơi mà tất cả các tính năng mới, cải tiến và sửa lỗi được hợp nhất trước khi đưa lên nhánh main.
@@ -14,7 +14,7 @@ Link : https://app.diagrams.net/#G1zv30pZ0K4se7htmktrEAu-LtPxVSdHN5#%7B%22pageId
 - Release : Chuẩn bị cho việc phát hành một phiên bản mới, thực hiện các kiểm tra cuối cùng và sửa lỗi nhỏ.
 - Hotfix : Sửa lỗi khẩn cấp trong phiên bản đã phát hành.
 
-+ Nếu bạn có một mô-đun mới để phát triển, bạn nên chuẩn bị những bước nào để phát triển từ
+b. Nếu bạn có một mô-đun mới để phát triển, bạn nên chuẩn bị những bước nào để phát triển từ
 bắt đầu mô-đun đến khi phát hành mô-đun :
 
 - Lập kế hoạch 
@@ -28,7 +28,7 @@ bắt đầu mô-đun đến khi phát hành mô-đun :
 
 3. Testing
 
-+ Các loại chiến lược testing strategies là : 
+a. Các loại chiến lược testing strategies là : 
 - Unit Testing
 - Integration Testing
 - System Testing
@@ -41,19 +41,19 @@ bắt đầu mô-đun đến khi phát hành mô-đun :
 - Smoke Testing
 - Sanity Testing
 
-+ Unit Testing used for : 
+b. Unit Testing used for : 
 - Kiểm tra các thành phần hoặc chức năng riêng lẻ của mã một cách riêng biệt.
 - Đảm bảo rằng mỗi đơn vị của mã hoạt động như mong đợi.
 - Phát hiện lỗi sớm trong quá trình phát triển.
 - Tạo điều kiện cho việc tái cấu trúc và bảo trì mã.
 
-+ Integration Testing used for :
+c. Integration Testing used for :
 - Kiểm tra tương tác và tích hợp giữa các units/modules khác nhau.
 - Đảm bảo rằng các thành phần kết hợp hoạt động cùng nhau như mong đợi.
 - Xác định các vấn đề liên quan đến giao diện và tương tác giữa các modules.
 - Xác thực luồng dữ liệu và kiểm soát giữa các thành phần tích hợp.
 
-+ When a tester has a new module to test, the following steps should be taken from start to release :
+d. When a tester has a new module to test, the following steps should be taken from start to release :
 - Requirement Analysis
 - Test Planning
 - Test Case Design
